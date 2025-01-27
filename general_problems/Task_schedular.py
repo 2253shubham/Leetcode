@@ -1,4 +1,4 @@
-# problem link here https://leetcode.com/problems/task-scheduler/description/
+# Problem description here https://leetcode.com/problems/task-scheduler/description/
 
 import collections
 class Solution:

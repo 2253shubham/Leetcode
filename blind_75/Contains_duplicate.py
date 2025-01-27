@@ -1,4 +1,4 @@
-# problem link here https://leetcode.com/problems/contains-duplicate/description/
+# Problem description here https://leetcode.com/problems/contains-duplicate/description/
 
 import collections
 

@@ -1,4 +1,4 @@
-# problem link here https://leetcode.com/problems/group-anagrams/description/
+# Problem description here https://leetcode.com/problems/group-anagrams/description/
 
 from collections import defaultdict
 class Solution:
@@ -15,7 +15,7 @@ class Solution:
 
         return out
     
-# Time Complexity = O(N * M logM), Space Complexity = O(N * M)
+# Time Complexity = O(N * MlogM), Space Complexity = O(N * M)
 # Where N is the length of list, m is the length of each word in list
 
 """
