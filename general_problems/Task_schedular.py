@@ -21,3 +21,5 @@ class Solution:
                 return max(
                     lent, (n + 1) * (lenf - 1) + list(charc.values()).count(lenf)
                 )
+            
+# Time Complexity = O(1), Space Complexity = O(N)
