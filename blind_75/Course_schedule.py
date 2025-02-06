@@ -1,4 +1,4 @@
-# Problem description here https://leetcode.com/problems/course-schedule/
+# Problem description here https://leetcode.com/problems/course-schedule/description/
 
 # 1) My solution with DFS
 
