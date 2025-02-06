@@ -1,4 +1,4 @@
-# Problem description here https://leetcode.com/problems/spiral-matrix/
+# Problem description here https://leetcode.com/problems/spiral-matrix/description/
 
 
 class Solution:
