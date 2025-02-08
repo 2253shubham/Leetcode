@@ -12,7 +12,7 @@ class Solution:
             return head
         head1 = head
         head2 = head.next
-        head3 = head.next
+        head3 = head2
 
         while head2 and head2.next:
             head1.next = head1.next.next
