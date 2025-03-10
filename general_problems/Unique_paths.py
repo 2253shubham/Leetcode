@@ -3,7 +3,7 @@
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        un_p = [[[0] for j in range(n)] for i in range(m)]
+        un_p = [[0 for j in range(n)] for i in range(m)]
         for i in range(m):
             un_p[i][0] = 1
         for j in range(n):
