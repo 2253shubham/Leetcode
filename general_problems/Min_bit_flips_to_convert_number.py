@@ -5,7 +5,7 @@ class Solution:
         # XOR the start and goal, then count the number of 1s in the result
         return bin(start ^ goal).count('1')
 
-# Time Complexity = O(N) , Space Complexity = O(N)
+# Time Complexity = O(N), Space Complexity = O(1)
 
 """
 # Alternate solution (same time and space complexity)
